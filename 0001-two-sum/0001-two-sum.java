@@ -3,22 +3,23 @@ import java.util.Map;
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // Map to store number -> index
-        Map<Integer, Integer> map = new HashMap<>();
+        // Create a map to store the number and its corresponding index
+        Map<Integer, Integer> numMap = new HashMap<>();
         
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
             
             // Check if the complement exists in the map
-            if (map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
+            if (numMap.containsKey(complement)) {
+                // If found, return the index of the complement and the current index
+                return new int[] { numMap.get(complement), i };
             }
             
-            // Store the current number and its index
-            map.put(nums[i], i);
+            // Otherwise, add the current number and index to the map
+            numMap.put(nums[i], i);
         }
         
-        // As per problem constraints, a solution always exists
-        throw new IllegalArgumentException("No two sum solution found");
+        // Return an empty array if no solution is found (though the problem guarantees one)
+        throw new IllegalArgumentException("No two sum solution");
     }
 }
