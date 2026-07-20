@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0010-regular-expression-matching) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
