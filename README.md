@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0059-spiral-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -182,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
