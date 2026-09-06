@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
