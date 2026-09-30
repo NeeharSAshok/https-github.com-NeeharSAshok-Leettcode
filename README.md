@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0059-spiral-matrix-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
