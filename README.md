@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0059-spiral-matrix-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0051-n-queens) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
