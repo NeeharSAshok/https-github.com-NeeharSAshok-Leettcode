@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> result = new ArrayList<>();
-        if (matrix == null || matrix.length == 0) {
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return result;
         }
         
@@ -13,19 +13,19 @@ class Solution {
         int right = n - 1;
         
         while (top <= bottom && left <= right) {
-            // Traverse from left to right along the top row
+            // 1. Traverse left to right along the top row
             for (int j = left; j <= right; j++) {
                 result.add(matrix[top][j]);
             }
             top++;
             
-            // Traverse from top to bottom along the right column
+            // 2. Traverse top to bottom along the right column
             for (int i = top; i <= bottom; i++) {
                 result.add(matrix[i][right]);
             }
             right--;
             
-            // Traverse from right to left along the bottom row (if row still exists)
+            // 3. Traverse right to left along the bottom row (if valid)
             if (top <= bottom) {
                 for (int j = right; j >= left; j--) {
                     result.add(matrix[bottom][j]);
@@ -33,7 +33,7 @@ class Solution {
                 bottom--;
             }
             
-            // Traverse from bottom to top along the left column (if column still exists)
+            // 4. Traverse bottom to top along the left column (if valid)
             if (left <= right) {
                 for (int i = bottom; i >= top; i--) {
                     result.add(matrix[i][left]);
