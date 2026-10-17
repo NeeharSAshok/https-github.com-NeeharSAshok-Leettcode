@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
