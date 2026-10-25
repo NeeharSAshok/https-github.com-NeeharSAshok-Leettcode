@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0089-gray-code) |
 ## Greedy
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0089-gray-code) |
 ## Matrix
 |  |
