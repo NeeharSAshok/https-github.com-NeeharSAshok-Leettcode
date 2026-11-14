@@ -3,23 +3,28 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         
-        // Initialize the first row (can only come from the left)
-        for (int j = 1; j < n; j++) {
-            grid[0][j] += grid[0][j - 1];
-        }
+        // Use a 1D rolling array for space optimization, 
+        // storing the minimum path sum for the current row.
+        int[] dp = new int[n];
         
-        // Initialize the first column (can only come from above)
-        for (int i = 1; i < m; i++) {
-            grid[i][0] += grid[i - 1][0];
-        }
-        
-        // Fill out the rest of the grid using the minimum of the top and left paths
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                grid[i][j] += Math.min(grid[i - 1][j], grid[i][j - 1]);
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == 0 && j == 0) {
+                    // Starting cell
+                    dp[j] = grid[i][j];
+                } else if (i == 0) {
+                    // First row: can only come from the left
+                    dp[j] = dp[j - 1] + grid[i][j];
+                } else if (j == 0) {
+                    // First column: can only come from above
+                    dp[j] = dp[j] + grid[i][j];
+                } else {
+                    // General case: choose the minimum between coming from above (dp[j]) and left (dp[j-1])
+                    dp[j] = Math.min(dp[j], dp[j - 1]) + grid[i][j];
+                }
             }
         }
         
-        return grid[m - 1][n - 1];
+        return dp[n - 1];
     }
 }
