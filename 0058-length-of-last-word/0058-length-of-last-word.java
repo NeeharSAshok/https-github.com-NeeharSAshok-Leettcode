@@ -3,12 +3,12 @@ class Solution {
         int length = 0;
         int i = s.length() - 1;
         
-        // Skip trailing spaces from the end of the string
+        // Step 1: Skip any trailing spaces from the end of the string
         while (i >= 0 && s.charAt(i) == ' ') {
             i--;
         }
         
-        // Count characters of the last word moving backwards
+        // Step 2: Count characters of the last word until we hit another space or the beginning
         while (i >= 0 && s.charAt(i) != ' ') {
             length++;
             i--;
