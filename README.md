@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Trie
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -328,4 +330,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
