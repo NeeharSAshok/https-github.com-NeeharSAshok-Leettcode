@@ -334,11 +334,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
 ## Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -349,4 +351,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
