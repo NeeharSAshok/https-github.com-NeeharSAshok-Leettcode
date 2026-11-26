@@ -335,12 +335,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0101-symmetric-tree) |
 ## Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -352,8 +354,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/NeeharSAshok/https-github.com-NeeharSAshok-Leettcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
